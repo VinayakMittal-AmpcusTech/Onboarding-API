@@ -1,0 +1,7 @@
+export enum UserRoles {
+  ADMIN = 'ADMIN',
+  USER = 'USER',
+  CANDIDATE = 'CANDIDATE',
+  BRAVEN_TOOL_ADMIN = 'BRAVEN_TOOL_ADMIN',
+  DEMO = 'DEMO',
+}
